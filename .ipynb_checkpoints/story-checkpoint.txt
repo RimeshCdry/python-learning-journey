@@ -1,0 +1,4 @@
+Hi, My name is Rimesh Chaudhary
+I am learning python
+I am an aspiring data scientist
+I love to learn python programming
