@@ -51,7 +51,7 @@ Welcome to my Python practice repository! This is a curated collection of Jupyte
 
 ## 👥 Contact
 For questions or feedback, feel free to reach out:
-  - GitHub: @RimeshCdry
+  - GitHub: github.com/RimeshCdry
   - Email: rimeshcdry45@gmail.com
   - LinkedIn: https://www.linkedin.com/in/rimesh-chaudhary-09a25a30a
 ---
